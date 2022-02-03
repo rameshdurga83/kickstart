@@ -1,6 +1,7 @@
 # kickstart
-Replica of kickstarter.com using solidity, web3.js and next.js
-This application was created with help of udemy course.
+Clone of kickstarter.com using solidity, web3.js and next.js.
+
+Metamask chrome plugin is manadatory to run this project.
 
 To start the application,
 run npm install
